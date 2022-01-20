@@ -11,6 +11,7 @@
 
 <h2>Project Extensions:</h2>
 <ul>
+    <li>Resize images</li>
     <li>Format with CSS</li>
     <li>Menu bar</li>
 </ul>
