@@ -1,6 +1,6 @@
-<h1>Title</h1>
+<h1>Recipes</h1>
 
-<p>description. Check out the <a href=''>final product</a>.</p>
+<p>A recipe website implemented to practice basic HTML.</p>
 
 <h2>Lesson's Learned:</h2>
 <ul>
